@@ -111,21 +111,6 @@ Alcohol content and sulfur-related features show strong influence on predictions
   <li>NumPy, Pandas, Matplotlib</li>
 </ul>
 
-<hr>
-
-<h2>📂 Repository Structure</h2>
-<pre>
-├── data/
-│   └── winequality.csv
-├── notebooks/
-│   └── exploratory_analysis.ipynb
-├── src/
-│   └── train_models.py
-└── README.md
-</pre>
-
-<hr>
-
 <h2>📜 License</h2>
 <p>
 This project is intended for academic and educational use.
